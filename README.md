@@ -1,6 +1,6 @@
 <div align="center">
 
-# Longfan Zheng
+# Zephyr
 
 ### Software Engineer · Agent Runtime · Developer Tools
 
@@ -33,8 +33,6 @@ I design and build production-oriented software across agent runtimes, developer
 ## Selected work
 
 - **[agent-runtime-examples](https://github.com/archiewx/agent-runtime-examples)** — A reference Agent Runtime with durable events, SSE replay, tool policies, workspace controls, verification, leases, and optional distributed infrastructure.
-- **[webpack-plugin-auto-version](https://github.com/archiewx/webpack-plugin-auto-version)** — A Webpack plugin for build versioning, asset annotations, versioned output paths, and release-friendly cache control.
-- **[obsidian-auto-link](https://github.com/archiewx/obsidian-auto-link)** — An Obsidian plugin that turns pasted URLs into titled Markdown links.
 
 ## Engineering focus
 
